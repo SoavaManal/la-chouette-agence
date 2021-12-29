@@ -284,7 +284,8 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 40px;
+    font-weight: medium;
 }
 #bloc-6{
     padding: 0;
@@ -677,10 +678,6 @@ a {
     font-weight: lighter;
     max-width: 520px;
     margin: auto auto auto auto;
-}
-
-p {
-    font-size: 11px;
 }
 
 .tight-width-whitespace {
