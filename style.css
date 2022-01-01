@@ -695,7 +695,7 @@ a {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
+    font-size: 1.2em;
     font-weight: 700;
 }
 
@@ -784,6 +784,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    opacity: 0.9;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1037,7 +1038,10 @@ h4 {
         align-items: center;
     }
 }
-
+.commentaire{
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
