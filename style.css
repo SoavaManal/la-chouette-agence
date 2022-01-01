@@ -660,6 +660,9 @@ a {
 p{
     font-size: 15px;
 }
+.bold{
+    font-weight: bold;
+}
 .container {
     max-width: 1000px;
 }
