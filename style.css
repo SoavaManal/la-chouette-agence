@@ -657,7 +657,9 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
-
+p{
+    font-size: 15px;
+}
 .container {
     max-width: 1000px;
 }
@@ -705,12 +707,12 @@ a {
 }
 
 h2 {
-    font-size: 22px;
+    font-size:25px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 17px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
