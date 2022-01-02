@@ -686,7 +686,7 @@ p{
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 650px;
     margin: auto auto auto auto;
 }
 
@@ -785,7 +785,12 @@ h4 {
 .tc-white {
     color: #F3976C!important;
 }
-
+.font-accessible-h2{
+    font-size: 2em;
+}
+.font-accessible-p{
+    font-size: 1.3em;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
