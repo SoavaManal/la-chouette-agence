@@ -787,11 +787,9 @@ h4 {
 .tc-white {
     color: #F3976C!important;
 }
-.font-accessible-h2{
-    font-size: 20pt;
-}
+
 .font-accessible-p{
-    font-size: 18pt;
+    font-size: 18px;
 }
 .text-underline{
     text-decoration: underline;
