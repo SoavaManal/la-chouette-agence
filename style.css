@@ -659,10 +659,10 @@ a {
     color: #575757!important;
 }
 p{
-    font-size: 17px;
+    font-size: 20px;
 }
 .bold{
-    font-weight: bold;
+    font-weight: bolder;
 }
 .container {
     max-width: 1000px;
@@ -712,9 +712,11 @@ p{
 
 h2 {
     font-size:25px;
-    line-height: 1.4em;
+    /*line-height: 1.4em;*/
 }
-
+.shadow{
+    text-shadow: #000 1px 0 10px;
+}
 h3 {
     font-size: 17px;
     text-transform: uppercase;
@@ -786,10 +788,6 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
-}
-
-.font-accessible-p{
-    font-size: 18px;
 }
 .text-underline{
     text-decoration: underline;
